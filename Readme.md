@@ -2,7 +2,7 @@
 
 ---
 
-![](Screenshot_Adventjs.png)
+![](./Screenshot_Adventjs.png)
 
 ---
 
