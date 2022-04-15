@@ -6,12 +6,12 @@
 
 ---
 
-- ## [Solución al desafío 01](https://codepen.io/Jonatandb/pen/ZEvqVLx)
-- ## [Solución al desafío 02](https://codepen.io/Jonatandb/pen/gOoBZRP)
+- ## [Desafío 01](https://adventjs.dev/challenges/01) --> [Solución](https://codepen.io/Jonatandb/pen/ZEvqVLx)
+- ## [Desafío 02](https://adventjs.dev/challenges/02) --> [Solución](https://codepen.io/Jonatandb/pen/gOoBZRP)
 
-- ## [Solución al desafío 03](https://codepen.io/Jonatandb/pen/MWrPZoQ)
+- ## [Desafío 03](https://adventjs.dev/challenges/03) --> [Solución](https://codepen.io/Jonatandb/pen/MWrPZoQ)
 
-- ## [Solución al desafío 04](https://codepen.io/Jonatandb/pen/VwyEqzZ)
+- ## [Desafío 04](https://adventjs.dev/challenges/04) --> [Solución](https://codepen.io/Jonatandb/pen/VwyEqzZ)
 
 ---
 
