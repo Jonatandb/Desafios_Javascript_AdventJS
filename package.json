@@ -1,0 +1,30 @@
+{
+  "name": "adventjs-desafios-midudev",
+  "version": "1.0.0",
+  "description": "Mis soluciones a los desafíos de AdventJs.dev",
+  "main": "01.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonatandb/Desafios_Javascript_AdventJS.git"
+  },
+  "keywords": [
+    "jonatandb",
+    "jest",
+    "javascript",
+    "adventjs",
+    "es6",
+    "midudev"
+  ],
+  "author": "jonatandb@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonatandb/Desafios_Javascript_AdventJS/issues"
+  },
+  "homepage": "https://github.com/Jonatandb/Desafios_Javascript_AdventJS#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
